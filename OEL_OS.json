@@ -1,0 +1,29 @@
+{
+    "/": {
+        "type": "directory",
+        "dir1": {
+            "type": "directory",
+            "dir3": {
+                "type": "directory",
+                "Awais": {
+                    "type": "file",
+                    "content": "My name is Awais. people call me Little One",
+                    "size": 43
+                }
+            },
+            "AbdulWahab": {
+                "type": "file",
+                "content": "I am AbdulWahab. I am from Chakwal",
+                "size": 34
+            }
+        },
+        "dir2": {
+            "type": "directory",
+            "Faareh": {
+                "type": "file",
+                "content": "My Name is Faareh. I am a Good Boy",
+                "size": 34
+            }
+        }
+    }
+}
